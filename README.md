@@ -1,6 +1,6 @@
 # Bob-the-Turtle
 # This is a 'Class Project' and the first time I am using GitHub
-# 1. import the turtle-you may want to import pygame and larn how to run the module
+# 1. import the turtle-you may want to import pygame and learn how to run the module
 import turtle
 
 # 2. Setup the screen
