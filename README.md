@@ -1,6 +1,6 @@
 # Bob-the-Turtle
 # This is a 'Class Project' and the first time I am using GitHub
-# 1. import the turtle-you may want to import pygame and learn how to run the module
+# 1. import the turtle-you may want to import pygame and learn how to run the module from there
 import turtle
 
 # 2. Setup the screen
@@ -9,7 +9,7 @@ wn=turtle.Screen()
 wn.bgcolor("lightgreen")
 wn.title("Hello, Tina!")
 
-# 3. name the turtle
+# 3. Name the turtle
 tina = turtle.Turtle()
 tina.shape('turtle')
 tina.color('green')
